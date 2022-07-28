@@ -15,10 +15,12 @@ export PATH="$PATH:/Users/myuser/git-commands"
 ```
 
 Next we need to source the profile or close and repoen your shell.
+
 *.zshrc*
 ```
 source .zshrc
 ```
+
 *.bash_profile*
 ```
 source .bash_profile
