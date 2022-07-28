@@ -2,14 +2,16 @@
 custom git commands
 
 # Installation
-1. clone the repo into your home user directory:
+Clone the repo into your home user directory.
+EX: /Users/myuser/
 ```
 git clone git@github.com:michaelguild13/git-commands.git
 ```
-2. add the $PATH to your shell profile. (.bash_profile, .zshrc)
+
+Add the $PATH to your shell profile. (.bash_profile, .zshrc)
 ```
 # Custom Git Commands
-export PATH="$PATH:/Users/<user>/git-commands"
+export PATH="$PATH:/Users/myuser/git-commands"
 ```
 
 # Custom Commands
